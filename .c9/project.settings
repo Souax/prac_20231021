@@ -49,19 +49,6 @@
         "@first": true
     },
     "workspace": {
-        "@folders": [
-            {
-                "name": "sites",
-                "path": "/sites"
-            },
-            {
-                "name": "html.2",
-                "path": "/html.2"
-            },
-            {
-                "name": "git-practice",
-                "path": "/git-practice"
-            }
-        ]
+        "@folders": []
     }
 }
