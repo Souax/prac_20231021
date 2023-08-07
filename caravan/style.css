@@ -5,7 +5,7 @@
   color:#6c6b6b;
 }
 
-a{1
+a{
   text-decoration:none;
 }
 
@@ -35,11 +35,26 @@ header .heading{
 .main-visual{
   width:100%;
   height:300px;
+  background-image:url(img/mv.jpg);
+  background-size:cover;
+  background-position:center;
 }
 
 .main-visual-content{
-  width:350px;
+  width:40%;
   height:300px;
+  background-color:rgba(0,0,0,0.5);
+  text-align:center;
+  padding-top:105px;
+}
+
+.main-visual-text{
+  color:#fff;
+}
+
+.main-visual-name{
+  margin-top:30px;
+  color:#fff;
 }
 .main{
   width:840px;
